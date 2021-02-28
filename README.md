@@ -1,4 +1,4 @@
-# Bridging Guild
+# Bridging Guild [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/BridgingGuild/community)
 
 This is the bridge makers' guarantee to the users that they are informed symmetrically. Also a proof of each others willingness to collaborate and bridge the bridges :).
 
