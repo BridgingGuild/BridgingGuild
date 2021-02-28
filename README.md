@@ -3,7 +3,7 @@
 This is the bridge makers' guarantee to the users that they are informed symmetrically. Also a proof of each others willingness to collaborate and bridge the bridges :).
 
 ## Cooperation Space
-
+- discussions: https://gitter.im/BridgingGuild/community
 - common types, interfaces, APIs
     - interface with relayers
     - interchanging relayers
